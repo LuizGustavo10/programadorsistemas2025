@@ -12,11 +12,11 @@ if(idade > 17){
 } else{
    // alert("Vai embora daqui! "+ nome);
 }
-
+//teste
 if(nome == "Valdecir" && senha =="123"){
    // alert("Login concedido! ");
 }else{
-   // alert("Tente Novamente! seu intruso!");
+   //alert("Tente Novamente! seu intruso!");
 }
 
 //laço de repetição
