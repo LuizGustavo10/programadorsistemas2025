@@ -8,6 +8,7 @@ var senha = "777";
 
 //registrando alteração
 //enviando alteração pro github com o visual studio
+//ALTERADO NO GIT
 
 //estrutura de condiçãosssssss
 if(idade > 17){
