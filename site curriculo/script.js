@@ -7,6 +7,7 @@ var idade = 45;
 var senha = "777";
 
 //registrando alteração
+//enviando alteração pro github com o visual studio
 
 //estrutura de condiçãosssssss
 if(idade > 17){
