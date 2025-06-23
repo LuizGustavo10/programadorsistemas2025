@@ -9,10 +9,11 @@ var senha = "777";
 //registrando alteração
 //enviando alteração pro github com o visual studio
 //ALTERADO NO GIT
+//feito alteração
 
 //estrutura de condiçãosssssss
 if(idade > 17){
-   // alert("Pode votar! "+ nome);
+   // alert("Pode votar! "+ nome); 
 } else{
    // alert("Vai embora daqui! "+ nome);
 }
