@@ -18,3 +18,8 @@ function jogar(celula){
         }
     }
 }
+
+function reiniciar(){
+    window.location.reload();
+}
+
